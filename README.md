@@ -4,7 +4,7 @@
 - 🌱 Estudando desenvolvimento Android com Kotlin ...
 ##
 <div>
-  <a href="https://github.com/Marcos-Sants">
+  <a href="https://github.com/Devjhonn">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Sants&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Sants&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -25,6 +25,6 @@
   <a href = "mailto:marcosjf20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
- ![Snake animation](https://github.com/Marcos-Sants/Marcos-sants/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Devjhonn/Devjhonn/blob/output/github-contribution-grid-snake.svg)
  
 </div>
